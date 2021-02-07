@@ -1,4 +1,5 @@
-#File Sharing Platform (100 points) – use DGRAM
+# File Sharing Platform (100 points) – use DGRAM
+
 - The following tries to simulate a File Sharing Platform coded in C
 - It gives the clients the ability to share, search, list and download files
 - The following are the commands for my project, my commands are case sensitive 
