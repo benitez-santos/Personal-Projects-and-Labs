@@ -8,7 +8,7 @@ To Register, the R should be capitalized and the username and password can be in
 - Register username password
 
 To Login, the L should be capitalized and the username and password can be in brackets if needed
-	- Register <username> <password>
+	- Register /<username/> /<password/>
 	- Register username password
 
 To Logout, the L should be capitalized and the username can be in brackets if needed
