@@ -8,16 +8,16 @@ To Register, the R should be capitalized and the username and password can be in
 - Register username password
 
 To Login, the L should be capitalized and the username and password can be in brackets if needed
-	- Register /<username/> /<password/>
-	- Register username password
+- Register \<username\> \<password\>
+- Register username password
 
 To Logout, the L should be capitalized and the username can be in brackets if needed
-	- Logout <username> 
-	- Logout username 
+- Logout <username> 
+- Logout username 
 
 To get the List, the L should be capitalized (only one way to put it in)
-	- List
+- List
 
 To send the Message, the M should be capitalized and the username and message can be in brackets if needed
-	- Message <username> <message>
-	- Message username message
+- Message <username> <message>
+- Message username message
