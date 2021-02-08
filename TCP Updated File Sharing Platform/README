@@ -1,3 +1,4 @@
+The following is an update version of a Client-Server using Stream Socket Programming with better programming techniques.
 
 To clean:
     make clean
