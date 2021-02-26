@@ -1,7 +1,7 @@
 #  Instant Messaging Platform 
 - The following was intended to represent a messaging system 
 - The Following is a guide on how to run my code for the following project
-- FOR MY IMPLEMENTATION - THE USERNAME AND PASSWORD SHOULD BE LESS THAN 20 CHARACTERS. THE MESSAGE CAN BE 79 CHARACTERS. ALSO, USER SHOULDN'T USE THE CHARACTER '|' AS THIS IS A TERMINAL CHARACTER FOR THE SERVER TO KNOW WHEN TO STOP READING
+- For my implementation the username and password should be less than 20 characters. The message can be 79 characters. Also, user shouldn't use the character '|' as this is a terminal character for the server to know when to stop readying. 
 
 To Register, the R should be capitalized and the username and password can be in brackets if needed
 - Register \<username\> \<password\>
