@@ -6,4 +6,5 @@
       - Runtime of algorithm
       - Cohesion(WSS) and Separation(BSS)
       - Sum of Squared Error (SSE)
-
+      - Graph and observe how clusters perform compared to actual expected values
+## To run lab you will need to run on an evironment that supports Python notebooks
